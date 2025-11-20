@@ -1,4 +1,3 @@
-//01:00 - refatoração
 const form = document.querySelector('#form')
 const searchInput = document.querySelector('#search')
 const songsContainer = document.querySelector('#songs-container')
